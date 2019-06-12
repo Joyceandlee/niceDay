@@ -1,0 +1,13 @@
+.btn {
+    width: 70px;
+    height: 70px;
+    background: gray;
+    color: #fff;
+    text-align: center;
+    line-height: 70px;
+    margin-top: 20px;
+    margin-left: 20px;
+    display: inline-block;
+    font-size: 25px;
+    border-radius: 50%;
+}

@@ -1,0 +1,8 @@
+.box {
+    width: 100%;
+    height: 130px;
+    line-height: 130px;
+    text-align: right;
+    font-size: 30px;
+    background: #eee;
+}   
